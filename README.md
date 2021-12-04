@@ -1,6 +1,6 @@
-# game_test
+# BMI_CALCULATOR
 
-A game test
+BMI CALCULATOR
 
 ## Getting Started
 
