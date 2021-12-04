@@ -14,8 +14,8 @@ class _HomeScreenState extends State<HomeScreen> {
   double __imcResult = 0.00;
   String _textResult = "";
 
-   TextEditingController _heightController = TextEditingController();
-   TextEditingController _weightController = TextEditingController();
+   final TextEditingController _heightController = TextEditingController();
+   final TextEditingController _weightController = TextEditingController();
 
 
   @override
