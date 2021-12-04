@@ -1,6 +1,6 @@
 # BMI_CALCULATOR
 
-BMI CALCULATOR
+Bmi calculator to learn how to develop with flutter sdk
 
 ## Getting Started
 
